@@ -8796,7 +8796,7 @@ msgstr "错误的用户群组."
 #: include/classes/api/services/CUser.php:1574
 #: include/classes/validators/CLdapAuthValidator.php:88 index_http.php:86
 msgid "Incorrect user name or password or account is temporarily blocked."
-msgstr ""
+msgstr "用户名或密码不正确，或帐户被临时禁用。"
 
 #: app/controllers/CControllerPopupGeneric.php:454
 #: include/classes/api/services/CAction.php:811

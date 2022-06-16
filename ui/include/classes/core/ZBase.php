@@ -202,7 +202,7 @@ class ZBase {
 			case self::EXEC_MODE_API:
 				$this->loadConfigFile();
 				$this->initDB();
-				$this->initLocales(['lang' => 'en_gb']);
+				$this->initLocales(['lang' => 'zh_CN']);
 				break;
 
 			case self::EXEC_MODE_SETUP:
